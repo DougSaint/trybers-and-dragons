@@ -6,4 +6,4 @@ import Mage from './Mage';
 
 export default Archetype;
 
-export { Mage, Necromancer, Warrior, Ranger }
+export { Mage, Necromancer, Warrior, Ranger };
